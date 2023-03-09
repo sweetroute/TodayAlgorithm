@@ -1,0 +1,13 @@
+c:\users\aram\documents\visual studio 2015\Projects\TodayAlgorithm\bin\Debug\TodayAlgorithm.exe.config
+c:\users\aram\documents\visual studio 2015\Projects\TodayAlgorithm\bin\Debug\TodayAlgorithm.exe
+c:\users\aram\documents\visual studio 2015\Projects\TodayAlgorithm\bin\Debug\TodayAlgorithm.pdb
+c:\users\aram\documents\visual studio 2015\Projects\TodayAlgorithm\obj\Debug\TodayAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\aram\documents\visual studio 2015\Projects\TodayAlgorithm\obj\Debug\TodayAlgorithm.exe
+c:\users\aram\documents\visual studio 2015\Projects\TodayAlgorithm\obj\Debug\TodayAlgorithm.pdb
+C:\Users\ARam\Documents\GitHub\Algorithm\TodayAlgorithm\bin\Debug\TodayAlgorithm.exe.config
+C:\Users\ARam\Documents\GitHub\Algorithm\TodayAlgorithm\obj\Debug\TodayAlgorithm.exe
+C:\Users\ARam\Documents\GitHub\Algorithm\TodayAlgorithm\obj\Debug\TodayAlgorithm.pdb
+C:\Users\ARam\Documents\GitHub\Algorithm\TodayAlgorithm\bin\Debug\TodayAlgorithm.exe
+C:\Users\ARam\Documents\GitHub\Algorithm\TodayAlgorithm\bin\Debug\TodayAlgorithm.pdb
+C:\Users\ARam\Documents\GitHub\Algorithm\TodayAlgorithm\obj\Debug\TodayAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ARam\Documents\GitHub\sweetroute\TodayAlgorithm\bin\Debug\TodayAlgorithm.exe.config
