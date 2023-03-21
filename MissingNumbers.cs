@@ -4,27 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/// <summary>
-/// [171109][HackerRank](C#)Missing Numbers
-/// 링크 : https://www.hackerrank.com/challenges/missing-numbers/problem
-/// 문제>
-/// 두개의 리스트 A와 B를 비교해서
-/// * A에 없는 B의 값
-/// * 반복 수가 다른 값
-/// 을 찾아서 오름차순으로 출력.
-/// </summary>
 namespace TodayAlgorithm
 {
     /// <summary>
-    /// 해결방법 1.
-    /// 1)A리스트와 B리스트를 정렬.    
-    /// 2)반복문을 돌면서 B리스트의 0번째 값과 같은값을 A리스트와 B리스트에서 전부 찾는다.
-    /// - 찾아온 수를 비교해서 다르면 B리스트의 0번째 값을 출력할 데이터에 추가.
-    /// - B리스트에서 B리스트의 0번째 값과 같은 값을 전부 삭제.
-    /// - B리스트가 0이 될 때까지 반복.
+    /// [171109][HackerRank](C#)Missing Numbers
+    /// 링크 : https://www.hackerrank.com/challenges/missing-numbers/problem
+    /// 문제>
+    /// 두개의 리스트 A와 B를 비교해서
+    /// * A에 없는 B의 값
+    /// * 반복 수가 다른 값
+    /// 을 찾아서 오름차순으로 출력.
     /// </summary>
     class MissingNumbers
     {
+        /// <summary>
+        /// 해결방법 1.
+        /// 1)A리스트와 B리스트를 정렬.    
+        /// 2)반복문을 돌면서 B리스트의 0번째 값과 같은값을 A리스트와 B리스트에서 전부 찾는다.
+        /// - 찾아온 수를 비교해서 다르면 B리스트의 0번째 값을 출력할 데이터에 추가.
+        /// - B리스트에서 B리스트의 0번째 값과 같은 값을 전부 삭제.
+        /// - B리스트가 0이 될 때까지 반복.
+        /// </summary>
         public void MissingNumbers1()
         {
             List<int> AList = new List<int>(Array.ConvertAll(Console.ReadLine().Split(' '), Int32.Parse));
